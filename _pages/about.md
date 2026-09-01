@@ -1,34 +1,41 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav: true
+nav_order: 1
+subtitle: Interaction designer · Researcher · Storyteller
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Based in China / open to collaborations</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: false
+social: true
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I design digital experiences that make complex ideas feel simple, useful, and human.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work moves between **research, interaction design, and visual storytelling**. I enjoy turning an ambiguous question into a clear product direction, then bringing that direction to life through prototypes, systems, and thoughtful details.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<div class="row mt-4">
+  <div class="col-sm-6 mb-3">
+    <a class="btn btn-outline-primary w-100" href="{{ '/programs/' | relative_url }}">Explore programs</a>
+  </div>
+  <div class="col-sm-6 mb-3">
+    <a class="btn btn-primary w-100" href="{{ '/portfolios/' | relative_url }}">View portfolios</a>
+  </div>
+</div>
+
+## A quick orientation
+
+This site is a living CV: **Programs** collects the contexts I have learned and worked in, **Portfolios** shows selected case studies, **Publication** gathers research outputs, and **My narratives** is where I write through ideas in progress.
+
+I am currently shaping this space around a small set of projects. More details, prototypes, and process notes will be added here over time.
