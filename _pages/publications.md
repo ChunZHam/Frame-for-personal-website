@@ -9,12 +9,12 @@ nav: true
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
 <div class="publications">
-
-{% bibliography %}
+  <div class="card hoverable mt-4">
+    <div class="card-body">
+      <h2 class="card-title h4">Publication archive</h2>
+      <p class="card-text">Research, writing, and published work will be collected here as the archive grows.</p>
+    </div>
+  </div>
 
 </div>

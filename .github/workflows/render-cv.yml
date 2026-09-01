@@ -11,10 +11,13 @@ on:
       - "assets/rendercv/settings.yaml"
   workflow_call:
   workflow_dispatch:
+  # CV rendering is opt-in until real CV data is added.
+  # Remove this guard when _data/cv.yml contains finalized RenderCV fields.
 permissions:
   contents: write
 jobs:
   rendercv:
+    if: false
     name: RenderCV
     runs-on: ubuntu-latest
     steps:
