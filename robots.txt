@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Chunzhou712.github.io/Frame-for-personal-website/sitemap.xml
+Sitemap: https://ChunZHam.github.io/Frame-for-personal-website/sitemap.xml
