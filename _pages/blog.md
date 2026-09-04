@@ -16,6 +16,7 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+<!-- 编辑指南：本文件只控制 My narratives 列表页。新增文章请在 _posts/ 新建 YYYY-MM-DD-title.md 文件。 -->
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}

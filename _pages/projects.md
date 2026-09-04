@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+<!-- 编辑指南：图片放在 assets/img/portfolio/；修改 portfolio_images 中的文件名即可替换预览。详情页是 _pages/portfolio-work-N.md。 -->
+
 <style>
   .portfolio-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 1.5rem; }
   .portfolio-card { grid-column: span 2; margin: 0; }

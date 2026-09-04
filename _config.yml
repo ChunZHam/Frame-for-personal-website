@@ -1,6 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+# 编辑指南：通常只修改 title、first_name、last_name、description。头像在 assets/img/prof_pic.jpg，Portfolio 图片在 assets/img/portfolio/。
 
 title: Chun Zhou — Researcher · Editor · Writer
 first_name: Chun

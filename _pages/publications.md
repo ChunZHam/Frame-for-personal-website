@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<!-- _pages/publications.md -->
+<!-- 编辑指南：在下方添加 Markdown 标题、摘要和链接即可。暂时不要修改 _bibliography/papers.bib。 -->
 
 <div class="publications">
   <div class="card hoverable mt-4">

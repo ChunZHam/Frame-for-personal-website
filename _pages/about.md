@@ -19,6 +19,8 @@ latest_posts:
   enabled: false
 ---
 
+<!-- 编辑指南：修改下方正文即可更新首页介绍；头像文件是 assets/img/prof_pic.jpg。不要删除顶部 YAML 设置。 -->
+
 I investigate how technology, culture, and personal stories shape the way people understand one another.
 
 My work moves between **independent research, literary editing, and writing**. I enjoy turning complex questions into clear arguments, carefully edited publications, and narratives that invite people into a subject.

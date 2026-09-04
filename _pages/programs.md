@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+<!-- 编辑指南：把下方卡片中的占位内容替换成你的经历；新增卡片时复制一个 <div class="col">...</div>。 -->
+
 <div class="row row-cols-1 row-cols-md-2 g-4">
   <div class="col"><div class="card h-100 hoverable"><div class="card-body">
     <p class="text-muted mb-2">01 · Education</p>
